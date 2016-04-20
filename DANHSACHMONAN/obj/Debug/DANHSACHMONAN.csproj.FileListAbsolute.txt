@@ -1,0 +1,8 @@
+C:\Users\Hoi Bui\Desktop\DANHSACHMONAN\DANHSACHMONAN\bin\Debug\DANHSACHMONAN.exe.config
+C:\Users\Hoi Bui\Desktop\DANHSACHMONAN\DANHSACHMONAN\obj\Debug\DANHSACHMONAN.Form1.resources
+C:\Users\Hoi Bui\Desktop\DANHSACHMONAN\DANHSACHMONAN\obj\Debug\DANHSACHMONAN.Properties.Resources.resources
+C:\Users\Hoi Bui\Desktop\DANHSACHMONAN\DANHSACHMONAN\obj\Debug\DANHSACHMONAN.csproj.GenerateResource.Cache
+C:\Users\Hoi Bui\Desktop\DANHSACHMONAN\DANHSACHMONAN\bin\Debug\DANHSACHMONAN.exe
+C:\Users\Hoi Bui\Desktop\DANHSACHMONAN\DANHSACHMONAN\bin\Debug\DANHSACHMONAN.pdb
+C:\Users\Hoi Bui\Desktop\DANHSACHMONAN\DANHSACHMONAN\obj\Debug\DANHSACHMONAN.exe
+C:\Users\Hoi Bui\Desktop\DANHSACHMONAN\DANHSACHMONAN\obj\Debug\DANHSACHMONAN.pdb
